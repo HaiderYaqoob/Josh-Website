@@ -1,0 +1,344 @@
+  #glossypink{
+    position: relative;
+    right: -150px;
+    top: -330px;
+    max-width: 1000px;
+    min-height: 700px;
+  }
+  #glossygreeen{
+    position: relative;
+    top: 425px;
+    right:  -20px;
+    max-width: 910px;
+    min-height: 750px;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="apple-touch-icon" sizes="57x57" href="../img/favicon/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="../img/favicon//apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="../img/favicon//apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="../img/favicon//apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="../img/favicon//apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="../img/favicon//apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="../img/favicon//apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="../img/favicon//apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="../img/favicon//apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="../img/favicon//android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="../img/favicon//favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="../img/favicon//favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="../img/favicon//favicon-16x16.png">
+  <link rel="manifest" href="../img/favicon//manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="../img/favicon//ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+  <link rel="icon" type="image/png" href="./favicon.ico" />
+
+  <!-- Bootstrap Styles-->
+  <link type="style" rel="stylesheet" href="./node_modules/bootstrap/dist/css/bootstrap.min.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+  <!-- Custom Styles-->
+  <link rel="stylesheet" href="./css/style.css" />
+  <link rel="stylesheet" href="./css/styles.css" />
+  <link rel="stylesheet" href="./css/typography.css" />
+  <link rel="stylesheet" href="./css/services.css" />
+
+  <title>clientslifecycle | Convrtx</title>
+
+</head>
+
+<body>
+					<!-- START SECTION -->
+          <div class="section" id="section3">
+            <div class="section" id="section1" style="overflow: hidden;">
+              <section id="hero" class="hero">
+                <!--header -->
+                <header id="pushleft">
+                  <div class="container web-container">
+                    <div class="row">
+                      <!-- logo -->
+                      <a href="./" rel="nofollow noopener" class="logo col-md-2">
+                        <img src="./img/logo.svg" alt="logo" srcset="" />
+                      </a>
+                      <!-- navigation -->
+                      <nav class="navbar col-md-6 col-xl-5 col-sm-6">
+                        <ul class="nav">
+                          <li class="nav-item">
+                            <a href="./index.html" rel="nofollow noopener">Home</a>
+                          </li>
+                          <li class="nav-item active">
+                            <a href="./clientslifecycle.html" rel="nofollow noopener">Client<span style="color: aliceblue;">.</span>Life<span style="color: aliceblue;">.</span>Cycle</a>
+                          </li>
+                          <li class="nav-item">
+                            <a href="./clients.html" rel="nofollow noopener">Clients</a>
+                          </li>
+                          <li class="nav-item">
+                            <a href="./services.html" rel="nofollow noopener">Services</a>
+                          </li>
+                          <li class="nav-item">
+                            <a href="./portfolio.html" rel="nofollow noopener">Portfolio</a>
+                          </li>
+                          <li class="nav-item">
+                            <a href="./contact.html" rel="nofollow noopener">Contact</a>
+                          </li>
+                        </ul>
+                      </nav>
+                      <div class="drop-down dn">12321</div>
+                      <div class="connect col-md-3 col-sm-6" id="chat-bttun">
+                        <div id="pushright">
+                          <a href="https://www.tidio.com/talk/haijuqfo2rlwtc1a79d3w97hvb5hmpyn"
+                            target="_blank" rel="nofollow"
+                            class="web-btn btn-small web-btn--radius text-white bg-purple">Lets
+                            Work Together</a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </header>
+                <div id="business_plan" class="overflow-hidden vertically-align-container">
+                  <div class="vertically-align">
+                    <div class="container" id="S3topcontent">
+                      <p class="text-header-medium text-center"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+                        Our
+                        <span class="underlined">Client life</span> Cycle
+                      </p>
+                      <p class="sub-title text-center pt-4" id="S3turnou">
+                        The core part of the ConvrtX strategy underpinnings is designed around an intellectual,
+                        globally-oriented knowledge trust that crosses the subsection of numerous industries and
+                        cutting-edge technologies and platforms.
+                      </p>
+                      <br>
+                      <div class="shapes-container" id="S3buisnesspic">
+                        <div class="equal-sides">
+                          <img src="./img/homepage/curvlines.png" id="S3line" class="hand-right"
+                            alt="hand right" />
+                          <img src="./img/homepage/glossy-green.png" id="glossygreeen" class="business-scenes"
+                            alt="business scene" />
+                          <img src="./img/homepage/glossy.png" id="glossypink" class="business-scene"
+                            alt="business scene" />
+                          <div id="yelowplayball">
+                            <img src="./img/homepage/yellowCubeplay.png" id="S3cubeplay" class="cursor"
+                              alt="cursor" />
+                          </div>
+                          <div id="greencuber">
+                            <img src="./img/homepage/green-cube.png" id="S3greencube" class="business-card"
+                              alt="business card" />
+                          </div>
+                          <div id="cubedwnyellow">
+                            <img src="./img/homepage/cube-downyellow.png" id="S3cube" class="cursor"
+                              alt="cursor" />
+                          </div>
+                          <div id="blueballS3">
+                            <img src="./img/homepage/ball-blue.png" id="S3blueball" class="business-card"
+                              alt="business card" /></div>
+                          <img src="./img/homepage/keyboard.png" id="S3keyboard" class="hand-right"
+                            alt="hand right" />
+                          <img src="./img/homepage/shadow.png" id="S3shadow" class="hand-right"
+                            alt="hand right" />
+        
+        
+                        </div>
+                      </div>
+                      <div class="container lets-chats">
+                        <div class="text-center">
+                          <a href="https://www.tidio.com/talk/haijuqfo2rlwtc1a79d3w97hvb5hmpyn"
+                            target="_blank" rel="nofollow"
+                            class="web-btn web-btn--radius text-white bg-purple chat-btun"
+                            id="learnmorebtn">Learn
+                            More</a>
+                        </div>
+                      </div>
+                      <div class="shapes-container">
+                        <div class="equal-sides">
+                          <div class="shape circle-1"></div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                </section>
+                </div>
+                
+            <!-- ============================================ Business Plan Section ================================================ -->
+            
+          </div>
+          <!-- END SECTION -->
+</body>
+
+</html>
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="apple-touch-icon" sizes="57x57" href="../img/favicon/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="../img/favicon//apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="../img/favicon//apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="../img/favicon//apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="../img/favicon//apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="../img/favicon//apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="../img/favicon//apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="../img/favicon//apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="../img/favicon//apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="../img/favicon//android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="../img/favicon//favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="../img/favicon//favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="../img/favicon//favicon-16x16.png">
+  <link rel="manifest" href="../img/favicon//manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="../img/favicon//ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+  <link rel="icon" type="image/png" href="./favicon.ico" />
+
+  <!-- Bootstrap Styles-->
+  <link type="style" rel="stylesheet" href="./node_modules/bootstrap/dist/css/bootstrap.min.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+  <!-- Custom Styles-->
+  <link rel="stylesheet" href="./css/style.css" />
+  <link rel="stylesheet" href="./css/styles.css" />
+  <link rel="stylesheet" href="./css/typography.css" />
+  <link rel="stylesheet" href="./css/services.css" />
+
+  <title>Services | Convrtx</title>
+
+</head>
+
+<body id="index_page">
+  <!-- ============================================ Hero Section ================================================ -->
+  <section id="business_plan" class="hero">
+    <!--header -->
+    <!--header -->
+    <header id="pushleft">
+      <div class="container web-container">
+        <div class="row">
+          <!-- logo -->
+          <a href="./" rel="nofollow noopener" class="logo col-md-2">
+            <img src="./img/logo.svg" alt="logo" srcset="" />
+          </a>
+          <!-- navigation -->
+          <nav class="navbar col-md-6 col-xl-5 col-sm-6">
+            <ul class="nav">
+              <li class="nav-item">
+                <a href="./index.html" rel="nofollow noopener">Home</a>
+            </li>
+            <li class="nav-item">
+                <a href="./clientslifecycle.html" rel="nofollow noopener">Client<span style="color: aliceblue;">.</span>Life<span style="color: aliceblue;">.</span>Cycle</a>
+            </li>
+              <li class="nav-item">
+                <a href="./clients.html" rel="nofollow noopener">Clients</a>
+              </li>
+              <li class="nav-item active">
+                <a href="./services.html" rel="nofollow noopener">Services</a>
+              </li>
+              <li class="nav-item">
+                <a href="./portfolio.html" rel="nofollow noopener">Portfolio</a>
+              </li>
+              <li class="nav-item">
+                <a href="./contact.html" rel="nofollow noopener">Contact</a>
+              </li>
+            </ul>
+          </nav>
+          <div class="drop-down dn">12321</div>
+          <div class="connect col-md-3 col-sm-6" id="chat-bttun">
+            <div id="pushright">
+              <a href="https://www.tidio.com/talk/haijuqfo2rlwtc1a79d3w97hvb5hmpyn" target="_blank" rel="nofollow"
+                class="web-btn btn-small web-btn--radius text-white bg-purple">Lets
+                Work Together</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
+    <!-- sub-header -->
+    <section id="business_plan" class="overflow-hidden vertically-align-container">
+      <div class="vertically-align">
+        <div class="container" id="S3topcontent">
+          <p class="text-header-medium text-center">
+            Our
+            <span class="underlined">Client life</span> Cycle
+          </p>
+          <p class="sub-title text-center pt-4" id="S3turnou">
+            The core part of the ConvrtX strategy underpinnings is designed around an intellectual,
+            globally-oriented knowledge trust that crosses the subsection of numerous industries and
+            cutting-edge technologies and platforms.
+          </p>
+          <br>
+          <div class="shapes-container" id="S3buisnesspic">
+            <div class="equal-sides">
+              <img src="./img/homepage/curvlines.png" id="S3line" class="hand-right"
+                alt="hand right" />
+              <img src="./img/homepage/glossy-green.png" id="glossygreeen" class="business-scenes"
+                alt="business scene" />
+              <img src="./img/homepage/glossy.png" id="glossypink" class="business-scene"
+                alt="business scene" />
+              <div id="yelowplayball">
+                <img src="./img/homepage/yellowCubeplay.png" id="S3cubeplay" class="cursor"
+                  alt="cursor" />
+              </div>
+              <div id="greencuber">
+                <img src="./img/homepage/green-cube.png" id="S3greencube" class="business-card"
+                  alt="business card" />
+              </div>
+              <div id="cubedwnyellow">
+                <img src="./img/homepage/cube-downyellow.png" id="S3cube" class="cursor"
+                  alt="cursor" />
+              </div>
+              <div id="blueballS3">
+                <img src="./img/homepage/ball-blue.png" id="S3blueball" class="business-card"
+                  alt="business card" /></div>
+              <img src="./img/homepage/keyboard.png" id="S3keyboard" class="hand-right"
+                alt="hand right" />
+              <img src="./img/homepage/shadow.png" id="S3shadow" class="hand-right"
+                alt="hand right" />
+
+
+            </div>
+          </div>
+          <div class="container lets-chats">
+            <div class="text-center">
+              <a href="https://www.tidio.com/talk/haijuqfo2rlwtc1a79d3w97hvb5hmpyn"
+                target="_blank" rel="nofollow"
+                class="web-btn web-btn--radius text-white bg-purple chat-btun"
+                id="learnmorebtn">Learn
+                More</a>
+            </div>
+          </div>
+          <div class="shapes-container">
+            <div class="equal-sides">
+              <div class="shape circle-1"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </section>
+ 
+  <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+  <script src="./scripts/main.js"></script>
+</body>
+
+</html>
